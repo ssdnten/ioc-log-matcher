@@ -1,0 +1,18 @@
+[
+  {
+    "event": 1,
+    "type": "ip",
+    "value": "192.0.2.55",
+    "labels": [
+      "synthetic-lab"
+    ]
+  },
+  {
+    "event": 2,
+    "type": "domain",
+    "value": "alert.example",
+    "labels": [
+      "synthetic-lab"
+    ]
+  }
+]

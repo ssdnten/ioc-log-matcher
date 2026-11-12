@@ -1,0 +1,12 @@
+[
+  {
+    "type": "ip",
+    "value": "192.0.2.55",
+    "label": "synthetic-lab"
+  },
+  {
+    "type": "domain",
+    "value": "alert.example",
+    "label": "synthetic-lab"
+  }
+]
